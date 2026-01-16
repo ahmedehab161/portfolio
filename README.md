@@ -51,5 +51,5 @@ More details are available directly within the portfolio.
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ahmedehab161/portfolio.git
+cd portfolio
