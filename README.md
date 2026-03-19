@@ -43,13 +43,3 @@ Each project included in this portfolio demonstrates:
 - Practical use of modern web technologies  
 
 More details are available directly within the portfolio.
-
----
-
-## 🚀 Getting Started
-
-To run the project locally:
-
-```bash
-git clone https://github.com/ahmedehab161/portfolio.git
-cd portfolio
