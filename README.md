@@ -18,7 +18,7 @@ This portfolio serves as a central place to present my work and professional jou
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React
 - **Backend:** PHP, Laravel  
 - **Database:** MySQL  
 - **Tools & Concepts:** REST APIs, MVC Architecture, Git, Version Control
